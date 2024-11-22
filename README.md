@@ -307,7 +307,7 @@ Contacto</a>
 
 <p>29 modelos disponibles</p>
 
-<button class="btn btn-primary w-100">Ver Colección</button>
+<button class="btn btn-primary w-100"><aVer Colección href="https://jd-354.github.io/Jor/"></a></button>
 
 </div>
 
