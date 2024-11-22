@@ -228,6 +228,7 @@ Contacto</a>
 <div class="carousel-item active">
 
 <img src="https://images.unsplash.com/photo-1552346154-21d32810aba3" class="d-block w-100" alt="Jordan sneakers collection, professional product photography" height="400">
+</div>
 
 <div class="carousel-caption">
 
