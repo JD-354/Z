@@ -306,9 +306,9 @@ Contacto</a>
 <h5>Jordan Collection</h5>
 
 <p>29 modelos disponibles</p>
-
-<button class="btn btn-primary w-100"><aVer Colección href="https://jd-354.github.io/Jor/"></a></button>
-
+<a href="https://jd-354.github.io/Jor/>
+<button class="btn btn-primary w-100">aVer Colección </button>
+</a>
 </div>
 
 </div>
