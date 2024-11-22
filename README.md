@@ -306,7 +306,7 @@ Contacto</a>
 <h5>Jordan Collection</h5>
 
 <p>29 modelos disponibles</p>
-<a href="(https://jd-354.github.io/Jor/)">
+<a href="https://jd-354.github.io/Jor/">
 <button class="btn btn-primary w-100">Ver Colección </button>
 </a>
 </div>
@@ -330,9 +330,9 @@ photo" class="img-fluid mb-3" height="200">
 <h5>Nike Collection</h5>
 
 <p>30 modelos disponibles</p>
-
+<a href="https://jd-354.github.io/Nk/">
 <button class="btn btn-primary w-100">Ver Colección</button>
-
+</a>
 </div>
 
 </div>
