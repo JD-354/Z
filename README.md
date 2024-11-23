@@ -117,7 +117,7 @@ padding: 20px 0; margin-top: 40px;
 
 <div class="container">
 
-<a class="navbar-brand" href="https://zapatostyle.com">
+<a class="navbar-brand" href="">
 
 <div class="logo-container">
 
@@ -431,7 +431,7 @@ photo" class="img-fluid mb-3" height="200">
 
 </div>
 
-</footer>
+
 
 
 
