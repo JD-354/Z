@@ -133,7 +133,7 @@ padding: 20px 0; margin-top: 40px;
 
 </svg>
 
-<span class="logo-text">ZapatoStyle</span>
+<span class="logo-text">Zapato J.A.N.P</span>
 
 </div>
 
@@ -465,7 +465,5 @@ setTimeout(() => { counter.style.transform = 'scale(1)';
 
 
 
-</body>
 
-</html>
 
