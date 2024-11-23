@@ -350,9 +350,9 @@ photo" class="img-fluid mb-3" height="200">
 <h5>Puma Collection</h5>
 
 <p>20 modelos disponibles</p>
-
+<a href="https://jd-354.github.io/Pum/">
 <button class="btn btn-primary w-100">Ver Colección</button>
-
+</a>
 </div>
 
 </div>
@@ -370,9 +370,9 @@ photo" class="img-fluid mb-3" height="200">
 <h5>Adidas Collection</h5>
 
 <p>30 modelos disponibles</p>
-
+<a href="https://jd-354.github.io/AD/">
 <button class="btn btn-primary w-100">Ver Colección</button>
-
+</a>
 </div>
 
 </div>
