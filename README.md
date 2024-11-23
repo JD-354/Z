@@ -161,7 +161,7 @@ padding: 20px 0; margin-top: 40px;
 
 <li class="nav-item">
 
-<a class="nav-link" href="https://zapatostyle.com/nosotros"><i class="fas fa-info-circle"></i> Sobre
+<a class="nav-link" href="https://jd-354.github.io/S/"><i class="fas fa-info-circle"></i> Sobre
 
 Nosotros</a>
 
